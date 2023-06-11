@@ -53,6 +53,10 @@ const ENABLE_GPT4 = true;
 
 export const ALL_MODELS = [
   {
+    name: "ada:ft-aibt-2023-06-09-20-38-00",
+    available: true,
+  }
+  {
     name: "gpt-4",
     available: ENABLE_GPT4,
   },
